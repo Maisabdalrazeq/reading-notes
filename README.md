@@ -16,7 +16,7 @@
   
    you can make diffrent style of the text **bold** , *italic* , listied the worlds .
    
-   you can adding link by this way [my bage](copy and paste the link right here).
+   you can adding link by this way [My Notes](https://maisabdalrazeq.github.io/reading-notes/reading-notes).
 
    thank you
  
