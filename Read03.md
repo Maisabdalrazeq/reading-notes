@@ -16,4 +16,4 @@
 
 * git commit-m  : thats mean tell us the reason of the change 
 
-* git push origin master : thats mean 
+* git push origin master : thats mean pushes committed changes from your local “master” branch upstream to the “origin” server.
