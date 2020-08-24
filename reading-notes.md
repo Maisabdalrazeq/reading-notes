@@ -14,5 +14,11 @@
 
 *People with growth mindsets believe that intelligence, and qualities we’re born with are just the foundation for future development. They can be improved through learning and hard work.* 
  
- 
+ **Here are some tips on transitioning from a fixed to growth mindset..**
+
+ * View challenges as opportunities.
+
+* Try different learning tactics. 
+
+* Take risks in front of others.
  
