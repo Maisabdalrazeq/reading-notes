@@ -22,3 +22,4 @@
 
 * Take risks in front of others.
  
+ * Reward actions, not traits.
