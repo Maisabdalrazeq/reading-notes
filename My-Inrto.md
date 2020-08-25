@@ -1,4 +1,4 @@
-## I'm Mais Abdalrazeq ..23 years old and I have a bachelor dgree in finance and banking and I worked for 8 months in a financial company .
+## I'm Mais Abdalrazeq ..23 years old and I have a bachelor dgree in finance and banking from hashemite university ,then I worked for 8 months in a financial company .
 
 ## I am heading to learn a new profession and skills from my previous skills.Therefore, I will motivate myself with some important notes that I quoted from some sites on Google..
 
