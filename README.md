@@ -49,6 +49,6 @@
 
    thank you
 
-  1. [read02] (https://maisabdalrazeq.github.io/reading-notes/Read02)
-  2. [read03]  (https://maisabdalrazeq.github.io/reading-notes/Read03)
+  1. [read02](https://maisabdalrazeq.github.io/reading-notes/Read02)
+  2. [read03](https://maisabdalrazeq.github.io/reading-notes/Read03)
  
