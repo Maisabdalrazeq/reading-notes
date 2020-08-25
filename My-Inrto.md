@@ -10,7 +10,9 @@
 
 3.No Pain,No Gain
  
- you must have some properties .. ***love to learn new things ,, put more effort ,, be happy when other succeed***
+ you must have some properties ..
+ 
+  ***love to learn new things ,, put more effort ,, be happy when other succeed***
 
 *People with growth mindsets believe that intelligence, and qualities we’re born with are just the foundation for future development. They can be improved through learning and hard work.* 
  
@@ -22,4 +24,4 @@
 
 * Take risks in front of others.
  
- * Reward actions, not traits.
+ * Reward actions,, not traits.
