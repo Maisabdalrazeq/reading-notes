@@ -6,7 +6,7 @@
  
  *Color not only brings your site to life, but also helps  X convey the mood and evokes reactions.*
 
- 1. [backgroundcolor](/mnt/c/Users/Student/reading-notes/reading-notes/background-color.md)
+ 1. [backgroundcolor](https://maisabdalrazeq.github.io/reading-notes/background-color)
 
 # you can specify the color of background at the same three ways ..
 
@@ -18,7 +18,7 @@
 
 *the default background color is white* 
 
- 2. [foregroundcolor](/mnt/c/Users/Student/reading-notes/reading-notes/foreground-color.md)
+ 2. [foregroundcolor](https://maisabdalrazeq.github.io/reading-notes/foreground-color)
 
  # there are three ways to color the foreground ..
 
